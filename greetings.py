@@ -7,3 +7,5 @@ print(" Welcome My Friend")
 #Ask user what he/she wants to drink
 
 #something ne
+
+#if you can dream it you can do it
